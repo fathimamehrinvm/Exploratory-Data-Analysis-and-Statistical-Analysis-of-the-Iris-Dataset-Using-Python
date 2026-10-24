@@ -43,4 +43,5 @@ The analysis helps identify patterns, compare flower measurements, and understan
 Gained practical experience in Python programming, statistical analysis, exploratory data analysis, and data visualization.
 
 ## 👩‍💻 Author
-M.Sc. Data Science and Analytics Student
+Fathima Mehrin V M
+
